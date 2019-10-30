@@ -1,6 +1,5 @@
 # CS231n 논문 리뷰 온라인 스터디 :smiley: [AI Robotics KR]
 
-![image_link](https://github.com/ai-robotics-kr/cs231n_study/blob/master/images/stanford_logo.png?raw=true)
 
 ## 스터디 소개:
 - 목적: CS231n 강의에서 다룬 주요 논문 31개(CNN basics, Computer Vision basics, RNN basics)를 함께 읽고 리뷰합니다.
