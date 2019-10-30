@@ -1,13 +1,16 @@
-# CS231n 논문 리뷰 온라인 스터디 :smiley: [AI Robotics KR]
+# CS231n 논문 리뷰 온라인 스터디 [AI Robotics KR]
 
+![meme](http://memeshappen.com/media/created/Reading-reading-is-my-favorite-meme-64771.jpg)
 
 ## 스터디 소개:
+
 - 목적: CS231n 강의에서 다룬 주요 논문 31개(CNN basics, Computer Vision basics, RNN basics)를 함께 읽고 리뷰합니다.
 - 기간: 미정
 - 참여자: 현재 모집 중입니다.
 - 기획 그룹: [AI Robotics KR](https://www.facebook.com/groups/airoboticskr/)
 
 ## 스터디 진행 방법:
+
 - 온라인(구글 행아웃)으로 매주 ㅇ요일 ㅇ시 ~ ㅇ시에 진행됩니다.
 - 논문 하나를 읽고 스터디전날까지 5줄 요약과 질문 1개를 제출하고 스터디날 다같이 질문에 대한 답을 찾습니다.
 - 논문이 여러개 묶인 날은 하나씩 발표자를 정해 리뷰하고 다른 스터디원들은 그중 논문 하나만 읽고 5줄 요약, 질문 1개를 스터디전날까지 제출합니다.
@@ -16,6 +19,7 @@
 (현재 스터디 계획은 초안이라 구체적인 스터디 계획은 스터디원분들과 상의후 변경)
 
 ## Repository 사용법:
+
 - **['Paper Review Records' 폴더]**: 스터디원들의 논문 리뷰(5줄 요약)를 공유하는 공간입니다.
 - **[Issues]**: 스터디에서 나눈 질의응답이나 추가적인 정보를 공유하는 공간입니다.
 
